@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.649" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Checking Hooks" name="Scenario One" time="0.081">
+<system-out><![CDATA[
+Given Setting Background....................................................passed
+Given Scenario One Given....................................................passed
+When Scenario One When......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Checking Hooks" name="Scenario Two" time="0.017">
+<system-out><![CDATA[
+Given Setting Background....................................................passed
+Given Scenario Two Given....................................................passed
+When Scenario Two When......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
