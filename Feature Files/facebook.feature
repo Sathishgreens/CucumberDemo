@@ -13,4 +13,7 @@ Feature: Validate the fields in Login Page
   When User Enters valid data
   Then Check User successfully resets the Paswword
 
-  #Scenario: Checking the Create New Account
+  Scenario: Checking the Create New Account
+  Given user clicks Create Account
+  When User Enters valid data for Account Creation
+  Then Check User successfully created account
